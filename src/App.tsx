@@ -15,6 +15,7 @@ function App() {
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
+        <div className="bg-red-500 text-white p-4">Tailwind radi!</div>
         <button
           type="button"
           className="counter"
